@@ -1,0 +1,49 @@
+
+body{
+    background-color: rgb(31, 7, 117);
+}
+
+.mh{
+color: red; 
+font-family: 'Courier New', Courier, monospace;
+font-size: 15px;
+padding-left: 14px;
+padding-top: 10px;
+}
+
+p{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: brown;
+
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    width: 100px; /*largura*/
+    height: 50px; /*altura*/
+    background-color: rgb(10, 3, 70);
+}
+
+.img{
+width: 50px;
+height: 50px;
+background-image: url("meu projeto\proj01\img/mugiwara.png");
+margin-top: 20px;
+border-radius: 50%;
+}
+
+.user{
+font-size: 14px;
+font-family:  'Courier New', Courier, monospace,;
+padding-left: 3px;
+padding-top: 29px;
+
+}
+
+.perfil{
+    display: flex;
+    align-items: center;
+}
+

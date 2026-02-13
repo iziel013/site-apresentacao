@@ -1,0 +1,43 @@
+
+
+body{
+    height: 100%;
+    background-image: linear-gradient(  #2417E3 ,#081a50  ,#480dad );
+    background-attachment: fixed;
+}
+
+.img{
+    width: 100px;
+    background-image: url("meu projeto\proj01\img/mugiwara.png");
+    padding-right: 6px;
+
+}
+
+.txt{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.user{
+    padding-left: 30px;
+    padding-top: 30px;
+    display: flex;
+    align-items: center;
+}
+
+.info{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+p{
+    font-size: 25px;
+    padding-left: 30px;
+}
+
+.mr{
+    font-size: 35px;
+    color: rgba(0, 0, 0, 0.829);
+}
